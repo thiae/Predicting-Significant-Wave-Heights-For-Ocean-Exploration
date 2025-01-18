@@ -3,7 +3,9 @@ This project involves building and evaluating predictive models for significant 
 # 🌊 Predicting Significant Wave Heights for Ocean Exploration
 
 ## Project Overview
-This repository contains my solution to an assessment project aimed at predicting **Significant Wave Heights (`Hsig`)** for the Global Ocean Exploration Initiative (GOEI). This project involves preprocessing, feature engineering, model selection, and evaluation to build a robust machine-learning pipeline for predicting wave heights based on environmental and oceanic data.
+This repository contains my solution to an assessment project aimed at predicting **Significant Wave Heights (`Hsig`)** for the Global Ocean Exploration Initiative (GOEI). The questions have been removed for conciseness; only the implementation code is provided.
+
+This project involves preprocessing, feature engineering, model selection, and evaluation to build a robust machine-learning pipeline for predicting wave heights based on environmental and oceanic data.
 
 ---
 
